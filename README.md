@@ -53,8 +53,7 @@ easy to understand for the End-User. One can understand the data by seeing the v
 
 When we prepare to share our data or information, A Power BI Dashboard is used in gathering of visuals from a given data. A Dashboard 
 needs to fit on a solitary page frequently called Canvas. Canvas is workshop where we can make, consolidate, and adjust fascinating and 
-convincing visuals. In our Madhav store Dashboard Visualizations and text were used to represent Madhav store sales. A Dashboard can 
-created has per user Requirement.
+convincing visuals. In our IPL Analysis Dashboard Visualizations and text were used to represent a Dashboard.
 
 **5. Tiles:**
 
