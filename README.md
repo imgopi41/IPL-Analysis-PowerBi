@@ -44,17 +44,17 @@ experiences, Both of which would almost certainly hard to perceive from a crude 
 
 In Power BI, a report is a gathering of perceptions that seem together on at least one page but in this project i have represented the 
 data into Grapical format in 2 sheets that is in 2 Pages. Power BI allows to report an accumulation of things that identify with each 
-other. IPL Analysis  Reports says shows you that Titles won by yearwise. Once we click on any particular team visuals, It shows you the 
-complete data in that sheet or in a page. I have also created the visuals in a such way that it would be easy to understand the visuals.
-One can understand the data by seeing the visuals in the Reports.
+other. IPL Analysis Reports shows you that Titles won by team year-wise. Once we click on any particular team visuals, It shows you the 
+complete data of that team in winning awards in that sheet or in a page. I have also created the visuals in a such way that it would be 
+easy to understand for the End-User. One can understand the data by seeing the visuals in the Reports.
 
 
 **4. Dashboards:**
 
-When we prepare to share our data or information, A Power BI Dashboard is gathering of visuals from a given data. A Dashboard needs to 
-fit on a solitary page frequently called Canvas. Canvas is workshop where we can make, consolidate, and adjust fascinating and convincing 
-visuals. In our Madhav store Dashboard Visualizations and text were used to represent Madhav store sales. A Dashboard can created has per 
-user Requirement.
+When we prepare to share our data or information, A Power BI Dashboard is used in gathering of visuals from a given data. A Dashboard 
+needs to fit on a solitary page frequently called Canvas. Canvas is workshop where we can make, consolidate, and adjust fascinating and 
+convincing visuals. In our Madhav store Dashboard Visualizations and text were used to represent Madhav store sales. A Dashboard can 
+created has per user Requirement.
 
 **5. Tiles:**
 
